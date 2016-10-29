@@ -127,6 +127,7 @@
 
 [http:\/\/www.freeworldcharter.org\/ja\/more](http://www.freeworldcharter.org/ja/more)
 [http:\/\/arcadia11.hatenablog.com\/entry\/2015\/09\/21\/210000](http://arcadia11.hatenablog.com/entry/2015/09/21/210000)
-嫌われない勇気
+嫌われる勇気
+幸せになる勇気
 なぜゴッホは貧乏で、ピカソは金持ちだったのか
 
