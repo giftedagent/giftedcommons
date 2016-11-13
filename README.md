@@ -131,3 +131,7 @@
 幸せになる勇気
 なぜゴッホは貧乏で、ピカソは金持ちだったのか
 
+http://wiki.p2pfoundation.net/Commons-Based_Society
+http://www.shareable.net/blog/10-open-source-policies-for-a-commons-based-society
+http://commonstransition.org/towards-a-peer-society-based-on-the-commons/
+https://floksociety.co-ment.com/text/xMHsm6YpVgI/view/
