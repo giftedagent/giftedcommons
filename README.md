@@ -1,4 +1,4 @@
-# GIFTED FAMILY
+# GIFTED COMMONS
 
 価値共同体「GIFTED FAMILY」の基本原則並びに、維持存続するための仕組み
 
@@ -65,9 +65,9 @@
 17. 基本原則、価値基準、審査基準を変更する場合は、共同体参加者の90%の人々が賛同する必要がある
 18. 半数以上の意見がわかれた場合は、価値共同体自体を分岐することを検討する
 19. 個人が持てる富の最大値は日本円にして4,294,967,296円までである。それ以上の富は、共同体の他の構成員に還元する必要がある。
-20. 4,294,967,296円である理由はint(unsigned)値の最大だからである。
-20. 共同体が保有する資産によって資産が産み出された価値は共同体に帰属する。
-21. 正会員は正会員である限り、ベーシックインカムを受けることができる
+20. 4,294,967,296円である理由はint\(unsigned\)値の最大だからである。
+21. 共同体が保有する資産によって資産が産み出された価値は共同体に帰属する。
+22. 正会員は正会員である限り、ベーシックインカムを受けることができる
   1. 「GIFTED FAMILY」に属する人には、月毎に生活が担保される範囲で一定数のGBC（ジービーコイン）が支給される。
   2. GBCは「GIFTED FAMILY」に属する人によって、構成される分散合意ネットワークであり、価値及び信用を担保する。
   3. GBCはGAが提供する、社会福祉サービスと交換することが可能である。
@@ -75,9 +75,9 @@
   5. この書類を定義付けた際のGBCoinの交換価値は、1GBC=1ShakeShackである。
   6. これらの1GBCの交換価値はネットワークの信頼度によって増大する。
 
-22. 共同体の会員はこの共同体が維持存続する為に、共同体の価値観に反しない方法であらゆる方法によってこの共同体を維持存続させるための行動を果たす必要がある
+23. 共同体の会員はこの共同体が維持存続する為に、共同体の価値観に反しない方法であらゆる方法によってこの共同体を維持存続させるための行動を果たす必要がある
 
-23. 以上の価値基準を達成するために、共同体として以下の技術を提供する。
+24. 以上の価値基準を達成するために、共同体として以下の技術を提供する。
 
   1. ミチシルベ - 使命、信念、覚悟を定め、使命を果たすために、信念と覚悟を持って向かう手助けを行う。
   2. クエストツール - 課題を設定し、課題を達成して行くことを管理するツール。
@@ -87,8 +87,19 @@
   6. チーム - 仲間を見つけるサービス
   7. エンカウント - 適切な市場を見つける
   8. エージェント - クエストの実行をサポートする人的サービス
-  10. アセット：あらゆる資産を管理する
-  11. 交通手段：あらゆる移動を支援する
+  9. アセット：あらゆる資産を管理する
+  10. 交通手段：あらゆる移動を支援する
+
+
+## 組織として価値の生み出し方
+
+1. **人がやるべきことを人がやる**
+
+  1. 人がやらなくて良いことは仕組みにまかせる
+
+  ![](http://www.nikkei.com/content/pic/20161129/96958A99889DE3E2E2E6EBE1E7E2E0EBE3E3E0E2E3E4949490E2E2E2-DSXKZO1004937029112016FFB000-PB1-9.jpg)
+2. 
+
 
 ## 価値共同体「GIFTED FAMILY」において保障されること
 
@@ -134,7 +145,8 @@
 幸せになる勇気
 なぜゴッホは貧乏で、ピカソは金持ちだったのか
 
-http://wiki.p2pfoundation.net/Commons-Based_Society
-http://www.shareable.net/blog/10-open-source-policies-for-a-commons-based-society
-http://commonstransition.org/towards-a-peer-society-based-on-the-commons/
-https://floksociety.co-ment.com/text/xMHsm6YpVgI/view/
+[http:\/\/wiki.p2pfoundation.net\/Commons-Based\_Society](http://wiki.p2pfoundation.net/Commons-Based_Society)
+[http:\/\/www.shareable.net\/blog\/10-open-source-policies-for-a-commons-based-society](http://www.shareable.net/blog/10-open-source-policies-for-a-commons-based-society)
+[http:\/\/commonstransition.org\/towards-a-peer-society-based-on-the-commons\/](http://commonstransition.org/towards-a-peer-society-based-on-the-commons/)
+[https:\/\/floksociety.co-ment.com\/text\/xMHsm6YpVgI\/view\/](https://floksociety.co-ment.com/text/xMHsm6YpVgI/view/)
+
